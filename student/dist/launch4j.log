@@ -1,0 +1,11 @@
+
+
+Version:	3.12
+CmdLine:	D:\Esoft\DiSE\Project DRaft\student\dist\student.exe --l4j-debug
+WOW64:		yes
+Working dir:	D:\Esoft\DiSE\Project DRaft\student\dist\.
+Java min ver:	
+Java max ver:	
+Bundled JRE:	1.8.0
+Check launcher:	D:\Esoft\DiSE\Project DRaft\student\dist\1.8.0\bin\javaw.exe (not found)
+Error msg:	This application was configured to use a bundled Java Runtime Environment but the runtime is missing or corrupted.
